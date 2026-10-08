@@ -1,0 +1,23 @@
+# Data made when the app runs (names, phones, emails)
+cinema_bookings.txt
+cinema_reviews.txt
+ticket_*.txt
+
+# Build output and editor files
+*.class
+out/
+bin/
+.idea/
+*.iml
+.vscode/
+
+# Built jar (keep the libraries in lib)
+*.jar
+!lib/*.jar
+
+# Test file
+MailTest.java
+# Movie posters (users add their own images with these names)
+*.jpg
+*.jpeg
+*.png
