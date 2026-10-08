@@ -80,4 +80,4 @@ To reset all bookings, close the program and delete `cinema_bookings.txt`.
 
 ## Authors
 
-Group project, Sol Plaatje University.
+Tinyiko Mbidhli and group
